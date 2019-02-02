@@ -1,7 +1,8 @@
 <?php 
 
-	echo "Olá Mundo! Eu estou bem";
 
-	echo "Olá Voce!";
+	echo "Olá Mundo! Tudo bem?";
+
+	echo "Olá Eu!";
 	
 ?>
